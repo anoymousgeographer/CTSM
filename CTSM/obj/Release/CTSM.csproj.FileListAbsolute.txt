@@ -1,0 +1,10 @@
+C:\Users\geoman\source\repos\CTSM\CTSM\bin\Release\CTSM.exe.config
+C:\Users\geoman\source\repos\CTSM\CTSM\bin\Release\CTSM.exe
+C:\Users\geoman\source\repos\CTSM\CTSM\bin\Release\CTSM.pdb
+C:\Users\geoman\source\repos\CTSM\CTSM\obj\Release\CTSM.csprojAssemblyReference.cache
+C:\Users\geoman\source\repos\CTSM\CTSM\obj\Release\CTSM.Form1.resources
+C:\Users\geoman\source\repos\CTSM\CTSM\obj\Release\CTSM.Properties.Resources.resources
+C:\Users\geoman\source\repos\CTSM\CTSM\obj\Release\CTSM.csproj.GenerateResource.cache
+C:\Users\geoman\source\repos\CTSM\CTSM\obj\Release\CTSM.csproj.CoreCompileInputs.cache
+C:\Users\geoman\source\repos\CTSM\CTSM\obj\Release\CTSM.exe
+C:\Users\geoman\source\repos\CTSM\CTSM\obj\Release\CTSM.pdb
